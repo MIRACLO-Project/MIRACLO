@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: MIRACLO on Telegram
+    url: https://t.me/MIRACLO_Project
+    about: Builds, updates and announcements
+  - name: Support group
+    url: https://t.me/MIRACLO_Support
+    about: Help with installing and using MIRACLO
